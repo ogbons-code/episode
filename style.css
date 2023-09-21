@@ -1,0 +1,47 @@
+#music5{
+    background: #f83de3;
+    color: darkgreen;
+    text-align: center;
+    width: 100%;
+    padding: 15px 10px;
+}
+.mute{
+    color: lightsalmon;
+    font-size: larger;
+}
+#music4{
+    background: darkblue;
+    color: #f0f0f0;
+    text-align: center;
+    width: 80%;
+    padding: 10px;
+}
+p{
+    color: lightseagreen;
+    font-size: large;
+}
+#music3{
+    background-color: lightskyblue;
+    color: rgb(75, 183, 147);
+    width: 40%;
+    text-align: left;
+}
+#music2{
+    color: orangered;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 20%;
+    border-radius: 50%;
+    float: left;
+    margin-inline: 10px;
+}
+.rema{
+    color: #f83de3;
+}
+body{
+    padding: 10px;
+    margin: 10px;
+    background: #f3f3f3;
+}
